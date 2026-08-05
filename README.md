@@ -20,14 +20,12 @@ AugmentedMD serves as a central hub showcasing practical, privacy-first tools fo
 ## Current Tools
 
 ### Available Now
-- **[PHI Scrubber](https://github.com/gorin-research-repo/phiscrubber)** - Remove protected health information from clinical text with fully offline detection
+- **[PHI Scrubber](https://phiscrubber.pages.dev/phi-scrubber)** - Remove protected health information from clinical text with fully offline detection
+- **[Incidental Finding Guide](https://incidental-finding-guide.pages.dev/)** - Evidence-informed follow-up recommendations for incidental imaging findings by organ system
+- **[DOP Creator (Peakpoint)](https://ppcn.pages.dev/)** - Build delineation of privileges forms for Peakpoint Central Nassau in the browser
 
 ### Coming Soon
-- Clinical Note Assistant
-- Evidence Navigator
-- Secure AI Gateway
-- Differential Diagnosis Aid
-- Patient Communication Helper
+- Peakpoint Central Nassau Credentialing Guide
 
 ## Usage
 
@@ -54,6 +52,8 @@ augmentedmd-site/
 Contributions are welcome! This is the main landing page for the AugmentedMD project. Individual tools have their own repositories:
 
 - PHI Scrubber: https://github.com/gorin-research-repo/phiscrubber
+- Incidental Finding Guide: https://github.com/gorin-research-repo/incidental_finding_guide
+- DOP Creator (Peakpoint): https://github.com/gorin-research-repo/ppdop_generator
 - (More tools coming soon)
 
 ## License
