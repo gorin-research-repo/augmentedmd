@@ -46,8 +46,18 @@ This is a static site and can be deployed to:
 ```
 augmentedmd-site/
 ├── index.html          # Main landing page (standalone)
-└── README.md          # This file
+├── README.md           # This file
+└── .cursor/skills/
+    └── augmentedmd-page-style/   # Design system guide for AI agents
 ```
+
+## Design system
+
+The visual style shared by this page and the PHI Scrubber tool is documented as a
+Cursor skill in `.cursor/skills/augmentedmd-page-style/`. It records the color
+tokens, layout, components, and content conventions, and ships a standalone page
+template. AI agents pick it up automatically when asked to build a page in this
+style; it is also readable as a plain style guide.
 
 ## Contributing
 
