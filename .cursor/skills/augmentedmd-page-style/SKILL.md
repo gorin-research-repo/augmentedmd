@@ -148,7 +148,10 @@ restyling a page that already has markup.
 
 Read `references/components.md` for the copy-paste CSS and markup of every
 component below. Load it whenever you are writing a page rather than guessing at
-the rules.
+the rules. It uses the class names as they appear in the existing pages
+(`.tool-card`, `.tool-tag`); the starter template uses neutral aliases (`.card`,
+`.tag`) since not every page is a tool directory. Either is fine — pick names
+from the page's own domain and stay consistent within a file.
 
 - **Header and brand** — gradient `.logo` tile with a single letter, or a solid
   `.shield` tile with an entity glyph for tool pages.
