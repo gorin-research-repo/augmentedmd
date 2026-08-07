@@ -4,7 +4,7 @@
 
 Landing page for open-source clinical tools designed to help doctors navigate the post-AI digital world.
 
-**Created by Michael Gorin, MD** — Academic urologist at Mount Sinai focusing on use of technologies (AI-based and conventional) to improve patient safety, operational efficiency, and physician effectiveness.
+**Created by Michael Gorin, MD** — Academic urologist at Mount Sinai focusing on use of technology to improve patient safety, operational efficiency, and physician effectiveness.
 
 ## About
 
