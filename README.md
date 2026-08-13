@@ -22,6 +22,7 @@ AugmentedMD serves as a central hub showcasing practical, privacy-first tools fo
 ### Available Now
 - **[PHI Scrubber](https://phiscrubber.pages.dev/phi-scrubber)** - Remove protected health information from clinical text with fully offline detection
 - **[Incidental Finding Guide](https://incidental-finding-guide.pages.dev/)** - Evidence-informed follow-up recommendations for incidental imaging findings by organ system
+- **[Figure Extractor](https://figure-extractor.pages.dev/)** - Render journal PDF pages as high-resolution SVGs on-device and crop out figures
 - **[DOP Creator (Peakpoint)](https://ppcn.pages.dev/)** - Build delineation of privileges forms for Peakpoint Central Nassau in the browser
 
 ### Coming Soon
